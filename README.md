@@ -1,5 +1,4 @@
-<!doctype html>
-  <head>
+   <head>
     <meta charset="utf-8">
     <title>시간표</title>
     <h1>시간표</h1>
