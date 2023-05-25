@@ -16,6 +16,10 @@
         margin-right: auto;
       }
       th, td {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        -webkit-box-orient: vertical;
         border: 1px solid #000;
         font-size: 30px;
         vertical-align: middle;
