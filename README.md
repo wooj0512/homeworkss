@@ -1,4 +1,5 @@
-   <head>
+<html>
+  <head>
     <meta charset="utf-8">
     <title>시간표</title>
     <h1>시간표</h1>
@@ -14,6 +15,7 @@
         text-align: center;
         margin-left: auto;
         margin-right: auto;
+        width: auto;
       }
       th, td {
         border: 1px solid #000;
@@ -55,3 +57,4 @@
       </tbody>
     </table>
   </body>
+</html>
